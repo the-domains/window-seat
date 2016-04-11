@@ -1,0 +1,28 @@
+name: Window Seat
+favicon: null
+layout_spectrum: 0.7287550445180386
+typography_spectrum: 0.4124018473085016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7597261187620461
+  lightness: 0.8623255307320505
+  saturation: 0.8376346193253994
+  rhythmicContrast: 0.728234248701483
+purpose: []
